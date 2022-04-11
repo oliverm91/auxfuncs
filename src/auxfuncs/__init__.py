@@ -1,1 +1,1 @@
-from auxfuncs import reduce_args
+from .auxfuncs import reduce_args
